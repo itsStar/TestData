@@ -1,1 +1,1 @@
-{ ""status””: true, ”statusCode": 200, “”message"": "Login successfully", "data": { "access_token": "QP7zkQAHdWyT1ogBdVXufXZf20JPRWGw" } }
+{ "success": true, "message": "OK", "data": [{ "name": "Music", "id": "3583" }, { "name": "Sports", "id": "4439" }, { "name": "Cooking", "id": "149" }, { "name": "Finance", "id": "125" }] }
