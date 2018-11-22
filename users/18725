@@ -1,0 +1,1 @@
+{ "status": true, "statusCode": 200, "message": "OK", "data": { "fullName": "anam khan", "id": "449", "phone": "", "mobile": "+92 334 0069294", "education": "MCS", "email": "anam@webeation.us", "skills": [{ "skill_id": "2343", "skill_name": "Musition" }, { "skill_id": "2643", "skill_name": "Guitarist" }] } }
