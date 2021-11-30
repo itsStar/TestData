@@ -1,0 +1,41 @@
+{
+  "status": true,
+  "message": "OK",
+  "data": [
+    {
+      "id": "1",
+      "name": "Hamza",
+      "fatherName": "Saeed",
+      "rollNumber": "13",
+      "class": "4"
+    },
+    {
+      "id": "2",
+      "name": "Usman",
+      "fatherName": "Saeed",
+      "rollNumber": "32",
+      "class": "4"
+    },
+    {
+      "id": "3",
+      "name": "Sulaman",
+      "fatherName": "Saeed",
+      "rollNumber": "33",
+      "class": "4"
+    },
+    {
+      "id": "4",
+      "name": "Abdul Ahad",
+      "fatherName": "Tayyab",
+      "rollNumber": "34",
+      "class": "4"
+    },
+    {
+      "id": "5",
+      "name": "Tayyab",
+      "fatherName": "Saeed",
+      "rollNumber": "63",
+      "class": "4"
+    }
+  ]
+}
